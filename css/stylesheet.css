@@ -145,5 +145,26 @@ body{
 	opacity: 0.7;
 }
 
+@media screen and (max-width: 480px) {
+	body{
+		height: 100%;
+		margin: 25px auto 25px auto;
+	}
+	#grid-container{
+		grid-template-rows: 440px 240px 220px 380px 440px;
+		grid-template-columns: 325px;
+		grid-template-areas: "test1""test2""test4""test5""test3";
+	}
+	
+	.testimonial-title{
+		margin-top: 20px;
+		font-size: 20px;
+	}
+
+	.testimonial-comment{
+		margin-top: 20px;
+		font-size: 14px;
+	}
+}
 
 
