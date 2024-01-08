@@ -61,6 +61,15 @@ body{
 	background-color: white;
 }
 
+#testimonial-three div[class="user-pic"]{
+	background-image:url("../images/image-kira.jpg");
+	border-color: #e2e6e9;
+}
+
+#testimonial-three div{
+	color: hsl(217, 19%, 35%);
+}
+
 #testimonial-four{
 	grid-area: test4;
 	background-color: white;
