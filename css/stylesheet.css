@@ -89,6 +89,15 @@ body{
 	background-color: hsl(219, 29%, 14%);
 }
 
+#testimonial-five div[class="user-pic"]{
+	background-image:url("../images/image-patrick.jpg");
+	border-color: hsl(263, 55%, 62%);
+}
+
+#testimonial-five div{
+	color: #ebeffa;
+}
+
 .testimonial{
 	border-radius: 10px;
 }
@@ -125,13 +134,13 @@ body{
 }
 
 .testimonial-title{
-	margin-top: 20px;
+	margin-top: 30px;
 	font-size: 19px;
 	font-weight: 600;
 }
 
 .testimonial-comment{
-	margin-top: 20px;
+	margin-top: 30px;
 	font-size: 13px;
 	opacity: 0.7;
 }
