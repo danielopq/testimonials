@@ -19,7 +19,7 @@ body{
 	display: grid;
 	grid-row-gap: 20px;
 	grid-column-gap: 30px;
-	grid-template-rows: 280px 265px;
+	grid-template-rows: 280px 260px;
 	grid-template-columns: 255px 255px 255px 255px;
 	grid-template-areas: 
 		"test1 test1 test2 test3"
@@ -73,6 +73,15 @@ body{
 #testimonial-four{
 	grid-area: test4;
 	background-color: white;
+}
+
+#testimonial-four div[class="user-pic"]{
+	background-image:url("../images/image-jeanette.jpg");
+	border-color: #e2e6e9;
+}
+
+#testimonial-four div{
+	color: hsl(217, 19%, 35%);
 }
 
 #testimonial-five{
