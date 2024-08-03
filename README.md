@@ -13,7 +13,7 @@
 
 ## Overview
 
-Frontend development for a testimonials webside. It is optimized for desktop and mobile users (480px). The elements have been set according to the images provided. The website has been built with HTML and CSS. I have used CSS grid.
+Frontend development for a website showcasing customer testimonials. It is optimized for both desktop and mobile users. The elements have been arranged according to the provided images. The website was built using only HTML and CSS, with no frameworks or libraries used.
 
 ### Screenshot
 
@@ -23,7 +23,7 @@ Frontend development for a testimonials webside. It is optimized for desktop and
 
 ### Links
 
-- Live Site URL: [https://danielmartinez.co.uk/testimonials]
+- Live Site URL: [https://danielopq.github.io/testimonials]
 
 ## My process
 
