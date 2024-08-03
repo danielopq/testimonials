@@ -15,7 +15,7 @@ body{
 *{
 	font-family: 'Barlow Semi Condensed';
 }
-#grid-container{
+main{
 	display: grid;
 	grid-row-gap: 20px;
 	grid-column-gap: 30px;
@@ -150,7 +150,7 @@ body{
 		height: 100%;
 		margin: 25px auto 25px auto;
 	}
-	#grid-container{
+	main{
 		grid-template-rows: 440px 240px 220px 380px 440px;
 		grid-template-columns: 325px;
 		grid-template-areas: "test1""test2""test4""test5""test3";
