@@ -7,18 +7,17 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
 ## Overview
 
-Frontend development for a website showcasing customer testimonials. It is optimized for both desktop and mobile users. The elements have been arranged according to the provided images. The website was built using only HTML and CSS, with no frameworks or libraries used.
+Frontend development for a website showcasing customer testimonials. I used a grid layout to organize the main elements, optimizing the design for both desktop and mobile users. The elements are arranged to match the provided images. The website was built using only HTML and CSS, without any frameworks or libraries.
 
 ### Screenshot
 
-- Desktop version: [https://github.com/danielopq/testimonials/blob/main/screenshots/desktop.jpg]
-- Mobile version: [https://github.com/danielopq/testimonials/blob/main/screenshots/mobile.jpg]
+- [Desktop version](https://github.com/danielopq/testimonials/blob/main/screenshots/desktop.jpg)
+- [Mobile version](https://github.com/danielopq/testimonials/blob/main/screenshots/mobile.jpg)
 
 
 ### Links
@@ -27,7 +26,7 @@ Frontend development for a website showcasing customer testimonials. It is optim
 
 ## My process
 
-I created the website entirely for the desktop version. Once all of the elements were in place and met the design requirements, I adapted it to the mobile version using just a CSS media query.
+I created the website specifically for the desktop version. Once all the elements were in place and met the design requirements, I adapted it for mobile using only a CSS media query.
 
 ### Built with
 
